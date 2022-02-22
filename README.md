@@ -1,7 +1,7 @@
 ### Olá! Eu sou Caio Matheus 👋
 
 - 🔭 Busco Trabalhar com JavaScript
-- 🌱 Estudando Html, Css e JavaScript
+- 🌱 Estudando Html, CSS e JavaScript
 - 📫 Contate-me no email: caio-matheus2050@hotmail.com
 - 😄 Pronouns: ele/dele
 
