@@ -1,7 +1,7 @@
 ### Olá! Eu sou Caio Matheus 👋
 
 - 🔭 Busco Trabalhar como  QA Enginner
-- 🌱 Estudando Html, CSS e JavaScript e Cypress
+- 🌱 Estudando Para me Tornar um QA Enginner
 - 📫 Contate-me no email: caio-matheus2050@hotmail.com
 - 😄 Pronouns: ele/dele
 
