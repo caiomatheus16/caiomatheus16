@@ -5,7 +5,9 @@
 - 📫 Contate-me no email: caio-matheus2050@hotmail.com
 - 😄 Pronouns: ele/dele
 
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   
