@@ -1,8 +1,8 @@
 ### Olá! Eu sou Caio Matheus 👋
 
-- 🔭 Busco Trabalhar como  Analista de Testes / QA
-- 🌱 Estudando Para me Tornar um Analista de Testes / QA
-- 📫 Contate-me no email: caio-matheus2050@hotmail.com
+- 🔭 Busco Trabalhar como  Analista de Infraestrutura / AWS / Cloud Computing
+- 🌱 Estudando Para me Tornar um Engenheiro DevOps 
+- 📫 Contate-me no email: caiomleao16@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
