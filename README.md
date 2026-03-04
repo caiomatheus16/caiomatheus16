@@ -47,16 +47,10 @@ Meu objetivo é atuar como Engenheiro DevOps, trabalhando com ambientes em nuvem
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true" height="170"/>
-</p>
----
 
 ## 📌 Projetos em Destaque
 
-🔹 Provisionamento de site estático na AWS com S3 + CloudFront usando Terraform  
+🔹 Provisionamento de site estático na AWS com S3 + CloudFront usando Terraform 
 🔹 Automação de deploy na AWS ECS Fargate 
 🔹 Laboratórios práticos de AWS  
 🔹 Estudos de CI/CD  
