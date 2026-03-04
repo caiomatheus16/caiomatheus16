@@ -1,33 +1,73 @@
-### Olá! Eu sou Caio Matheus 👋
+# 👋 Olá, eu sou o Caio Matheus  
 
-- 🔭 Busco Trabalhar como  Analista de Infraestrutura / AWS / Cloud Computing
-- 🌱 Estudando Para me Tornar um Engenheiro DevOps 
-- 📫 Contate-me no email: caiomleao16@gmail.com
-- 😄 Pronouns: ele/dele
+💻 Analista de Infraestrutura | Cloud & DevOps Enthusiast  
+☁️ Foco em AWS, Automação e Infraestrutura como Código  
+
+---
+
+## 🚀 Sobre mim
+
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de TI com foco em infraestrutura, cloud computing e automação.
+
+Atualmente estou direcionando minha carreira para Engenharia DevOps, aprofundando conhecimentos em:
+
+- AWS
+- Linux
+- Terraform
+- Docker
+- CI/CD
+- Redes e Infraestrutura
+- Automação com Shell Script
+
+Meu objetivo é atuar como Engenheiro DevOps, trabalhando com ambientes em nuvem escaláveis, pipelines de integração contínua e infraestrutura automatizada.
+
+---
+
+## ☁️ Cloud & DevOps Stack
+
+- AWS (EC2, S3, IAM, VPC, CloudFront)
+- Terraform (Infrastructure as Code)
+- Git & GitHub
+- Linux (Ubuntu / WSL)
+- Docker
+- Shell Script
+- CI/CD
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Caio-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Caio-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Caio-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Caio-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="Caio-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  
-  
-  
-  </div>
-  
-  ##
-  
-  <div> 
-  <a href="https://www.instagram.com/caio3281/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caio-matheus2050@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-matheus-111830210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-</div>
+---
+
+## 📌 Projetos em Destaque
+
+🔹 Provisionamento de site estático na AWS com S3 + CloudFront usando Terraform  
+🔹 Automação de deploy com Shell Script  
+🔹 Laboratórios práticos de AWS  
+🔹 Estudos de CI/CD  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidade como:
+
+- Analista de Infraestrutura
+- Cloud Engineer Jr
+- DevOps Jr
+
+---
+
+## 📫 Contato
+
+📧 Email: caiomleao16@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/caio-matheus-cloud/
+
+---
+
+> “Automatize tudo o que puder. Padronize o que for possível. Escale com inteligência.”
