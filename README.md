@@ -23,23 +23,35 @@ Meu objetivo é atuar como Engenheiro DevOps, trabalhando com ambientes em nuvem
 
 ---
 
-## ☁️ Cloud & DevOps Stack
+## 🚀 Cloud & DevOps Stack
 
-- AWS (EC2, S3, IAM, VPC, CloudFront)
-- Terraform (Infrastructure as Code)
-- Git & GitHub
-- Linux (Ubuntu / WSL)
-- Docker
-- Shell Script
-- CI/CD
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🐳 Containers
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🐧 Sistema Operacional
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🔁 Versionamento
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### ⚙️ Automação & CI/CD
+![Shell Script](https://img.shields.io/badge/Shell-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&theme=tokyonight" height="170"/>
 </p>
 ---
 
