@@ -50,8 +50,7 @@ Meu objetivo é atuar como Engenheiro DevOps, trabalhando com ambientes em nuvem
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true" height="170"/>
 </p>
 ---
 
