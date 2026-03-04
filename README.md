@@ -47,7 +47,7 @@ Meu objetivo é atuar como Engenheiro DevOps, trabalhando com ambientes em nuvem
 ## 📌 Projetos em Destaque
 
 🔹 Provisionamento de site estático na AWS com S3 + CloudFront usando Terraform  
-🔹 Automação de deploy com Shell Script  
+🔹 Automação de deploy na AWS ECS Fargate 
 🔹 Laboratórios práticos de AWS  
 🔹 Estudos de CI/CD  
 
