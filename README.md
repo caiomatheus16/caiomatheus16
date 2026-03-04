@@ -37,13 +37,10 @@ Meu objetivo é atuar como Engenheiro DevOps, trabalhando com ambientes em nuvem
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomatheus16&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomatheus16&layout=compact&theme=tokyonight" height="170"/>
+</p>
 ---
 
 ## 📌 Projetos em Destaque
